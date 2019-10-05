@@ -1,6 +1,7 @@
 # REGEX
 
-* [Iran Postal Code](#iranpostalcode)
+* [IranPostalCode](#iranpostalcode)
+* [FirstnameAndLastname](#firstnameandlastname)
 
 
 ## IranPostalCode
@@ -16,3 +17,9 @@
 ^(?!(\d)\1{3})[13-9]{4}[1346-9][ -]?[013-9]{5}$|^$
 ```
 [Checkout and Example](https://regex101.com/r/munDmh/1)
+
+
+## FirstnameAndLastname
+```js
+^[آ-یA-z]{2,}( [آ-یA-z]{2,})+([آ-یA-z]|[ ]?)$
+```
