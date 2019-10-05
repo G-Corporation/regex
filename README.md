@@ -3,7 +3,7 @@
 * [Iran Postal Code](#iranpostalcode)
 
 
-## Iran Postal Code
+## IranPostalCode
 
 #### Structure regex
 ```js
