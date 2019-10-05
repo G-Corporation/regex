@@ -1,7 +1,7 @@
 # REGEX
 
-* [IranPostalCode](#iranpostalcode)
-* [FirstnameAndLastname](#firstnameandlastname)
+* [Iran Postal Code](#iranpostalcode)
+* [First Name & Last Name](#firstnameandlastname)
 
 
 ## IranPostalCode
