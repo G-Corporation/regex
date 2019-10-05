@@ -2,7 +2,8 @@
 
 * [Iran Postal Code](#iranpostalcode)
 * [First Name & Last Name](#firstnameandlastname)
-
+* [Iran Mobile Number](#iranmobilenumber)
+* [Email](#email)
 
 ## IranPostalCode
 
@@ -31,4 +32,16 @@
 ^[آ-یA-z]{2,}( [آ-یA-z]{2,})+([آ-یA-z]|[ ]?)$
 ```
 [Checkout and Example](https://regex101.com/r/gg77DK/1)
+
+## IranMobileNumber
+```js
+^[0]?[9][0-9]{9}$
+```
+[Checkout and Example](https://regex101.com/r/gPDC8x/1)
+
+## Email
+```js
+^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$
+```
+[Checkout and Example](https://regex101.com/r/CIKrF5/1)
 
