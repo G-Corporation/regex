@@ -3,7 +3,7 @@
 
 
 
-### Iran Postal Code
+## Iran Postal Code
 
 #### Structure regex
 ```js
