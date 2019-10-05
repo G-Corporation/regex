@@ -20,6 +20,15 @@
 
 
 ## FirstnameAndLastname
+#### Witout Persian Word
+```js
+^[A-z]{2,}( [A-z]{2,})+([A-z]|[ ]?)$
+```
+[Checkout and Example](https://regex101.com/r/JPran5/1/)
+
+#### With Persian Word
 ```js
 ^[آ-یA-z]{2,}( [آ-یA-z]{2,})+([آ-یA-z]|[ ]?)$
 ```
+[Checkout and Example](https://regex101.com/r/9Meyqq/1)
+
