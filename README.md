@@ -1,9 +1,9 @@
 # REGEX
 
-* [Iran Postal Code](#Iran Postal Code)
+* [Iran Postal Code](#iranpostalcode)
 
 
-## Iran Postal Code
+## IranPostalCode
 
 #### Structure regex
 ```js
