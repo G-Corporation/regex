@@ -9,7 +9,7 @@
 
 #### Structure regex
 ```js
-^\d{0,5}[ -]?\d{0,5}$
+^\d{0,5}[ -]?\d{0,5}$ OR ^\d{5}[ -]?\d{5}$
 ```
 [Checkout and Example](https://regex101.com/r/CoGm0i/1)
 
