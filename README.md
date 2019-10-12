@@ -8,7 +8,7 @@
 ## IranPostalCode
 
 #### Structure regex
-##### Versoin 1 => 
+##### Versoin 1
 ```js
 ^\d{0,5}[ -]?\d{0,5}$ 
 ```
