@@ -8,14 +8,16 @@
 ## IranPostalCode
 
 #### Structure regex
+##### Versoin 1 => 
 ```js
-//Versoin 1 => 
 ^\d{0,5}[ -]?\d{0,5}$ 
-//OR
-//Versoin 2
-^\d{5}[ -]?\d{5}$
 ```
 [Checkout and Example (Versoin 1)](https://regex101.com/r/CoGm0i/1)
+
+##### Versoin 2
+```js
+^\d{5}[ -]?\d{5}$
+```
 [Checkout and Example (Versoin 2)](https://regex101.com/r/lxvKTI/1)
 
 
