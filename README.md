@@ -12,7 +12,7 @@
 ```js
 ^\d{0,5}[ -]?\d{0,5}$ 
 ```
-[Checkout and Example (Versoin 1)](https://regex101.com/r/CoGm0i/1)
+[Checkout and Example (Versoin 1)](https://regex101.com/r/CoGm0i/2)
 
 ##### Versoin 2
 ```js
